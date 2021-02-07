@@ -24,4 +24,5 @@ ex) 1122 (x) 1472 (o)
 4. Exception handling<br/>If the user input non-number (like letter or character) or number which is out of range, print error message. 
 
 
-## Capture 
+## Capture
+![Test1](/Advanced-C-Programming/img/hw1 test.png)
