@@ -25,4 +25,4 @@ ex) 1122 (x) 1472 (o)
 
 
 ## Capture
-![Test1](./img/1.png)
+![Test1](../img/1.png){width: 50px;}
