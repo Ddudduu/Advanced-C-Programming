@@ -25,4 +25,4 @@ ex) 1122 (x) 1472 (o)
 
 
 ## Capture
-![Test1](./Advanced-C-Programming/img/hw1 test.png)
+![Test1](./Advanced-C-Programming/img/1.png)
