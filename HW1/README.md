@@ -25,4 +25,8 @@ ex) 1122 (x) 1472 (o)
 
 
 ## Capture
-![Test1](../img/1.png =20x)
+1. Test 1
+<img src="../img/1.png" width="600">
+
+2. Test 2
+<img src="../img/2.png" width="600">
