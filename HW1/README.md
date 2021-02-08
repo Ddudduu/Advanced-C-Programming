@@ -15,7 +15,7 @@
          
          
 ## Requirements
-1. I used vector of C++ instead of array of C.<br/>Also, use cin , cout to get numbers from user and print the result to console.
+1. I used vector of C++ instead of array of C.<br/>Also, use cin to get numbers from user and cout to print the result to console.
 2. I generate the random numbers by using randint from std_lib_facilities.h 
 3. The number of chance to find out the answer is 10.<br/>If the user succeeds before 10 try, print a congratulation message.<br/>Else, print a failure message and the answer.<br/> Then program asks the user to keep playing. 
 
