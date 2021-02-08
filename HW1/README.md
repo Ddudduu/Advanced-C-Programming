@@ -1,8 +1,7 @@
 # Bulls and Cows (숫자 야구)
 
 ## Rules
-1. The program has a vector of four different integers (0~9)
-ex) 1122 (x) 1472 (o)
+1. The program has a vector of four different integers (0~9)<br/>ex) 1122 (x) 1472 (o)
 
 2. The user has to find out the numbers.
 
