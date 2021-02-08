@@ -13,8 +13,12 @@
 2. To declare variables, start with **"let".**
 3. To finish the program, input **"quit".**
 
-##Exception
-1. 
+## Exception
+1. When calculating a variable not declared<br/>=> get: undefined name 
+2. When parenthesis is not complete<br/>=> '(' expected
+3. When trying to divide by zero<br/>=> divide by zero
+4. When declaring the variable which is already declared.<br/>=> Declared twice
+5. When declaring without '='<br/>=> = missing in declaration
 
 ## Capture
 1. Test 1
